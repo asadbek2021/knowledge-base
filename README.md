@@ -8,3 +8,9 @@
 2. https://dl.acm.org/doi/book/10.5555/2385452
 3. https://docs.rs/crossbeam/latest/crossbeam/
 4. https://dl.acm.org/doi/10.1145/3622852
+
+
+
+### Set theory
+
+1. [Set Theory Introduction](https://www.youtube.com/watch?v=usjOF3eHhHs&list=PLPgKBibhNh73rAqxIaltEHw-qwMJISwOL)
