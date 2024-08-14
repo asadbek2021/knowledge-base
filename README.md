@@ -2,6 +2,7 @@
 
 - [What every programmer should know about memory](https://github.com/asadbek2021/knowledge-base/blob/main/cpumemory.pdf)
 - https://eater.net/crc
+- [Interesting stuff about kernel](https://www.youtube.com/@KernelRecipes)
   
 
 ### Parallel programming
