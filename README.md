@@ -1,6 +1,6 @@
 # General Computer Science based knowledge base
 
-
+- [What every programmer should know about memory](https://github.com/asadbek2021/knowledge-base/blob/main/cpumemory.pdf)
 
 ### Parallel programming
 
