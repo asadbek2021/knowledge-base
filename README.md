@@ -1,4 +1,4 @@
-# General Computer Science based knowledge base
+=# General Computer Science based knowledge base
 
 - [What every programmer should know about memory](https://github.com/asadbek2021/knowledge-base/blob/main/cpumemory.pdf)
 - https://eater.net/crc
@@ -17,3 +17,7 @@
 ### Set theory
 
 1. [Set Theory Introduction](https://www.youtube.com/watch?v=usjOF3eHhHs&list=PLPgKBibhNh73rAqxIaltEHw-qwMJISwOL)
+
+### Computation theory
+
+1. [Introduction to computation](https://www.youtube.com/watch?v=9syvZr-9xwk&list=PLidiQIHRzpXIFFbyGrWkqXXVj0BztDcTF)
